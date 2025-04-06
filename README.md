@@ -17,3 +17,7 @@ Here, I uploaded the **exercises** that I successfully carried out from the note
 - TensorFlow, TensorFlow Lite for Microcontrollers
 - Python, Google Colab notebooks
 - Arduino IDE / Edge ML boards
+
+### Certificate
+
+Upon successful completion of the first TinyML course, I obtained a verified [certificate](https://courses.edx.org/certificates/7f2e0b1c307245329488a27bb207203d).
